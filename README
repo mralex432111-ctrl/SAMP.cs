@@ -249,3 +249,4 @@ namespace SAMPCS
      - Memory_ReadByte(process_handle, address)                                                                              
      - callWithParams(hProcess, dwFunc, aParams, bCleanupStack = true)                                                       
      - virtualAllocEx(hProcess, dwSize, flAllocationType, flProtect)                        
+
